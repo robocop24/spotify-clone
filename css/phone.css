@@ -1,0 +1,46 @@
+@media screen and (max-width:1000px) {
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+/* header */
+nav{
+    display: flex;
+    height: 90px;
+    flex-direction: column;
+}
+nav ul{
+    height: 34px;
+    justify-content: center;
+}
+.brand{
+    padding: 8px 8px;
+}
+.songItemContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.songItem{
+    height: 8rem;
+    flex-direction: column;
+    padding: 20px 0;
+}
+.songlistplay{
+    margin: 10px 0;
+}
+.bottom{
+    height: 205px;
+}
+.icons{
+    margin-top: 90px;
+}
+}
