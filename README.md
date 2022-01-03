@@ -7,3 +7,5 @@ Simple responsive Flipkart clone website by using pure HTML, CSS and Javascript.
 
 https://robocop24.github.io/spotify-clone/
 
+## Screenshot
+<img src="/img/screenshot_2.png">
