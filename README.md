@@ -1,7 +1,7 @@
 
 # Spotify Clone
 
-Simple responsive Flipkart clone website by using pure HTML, CSS and Javascript.
+Simple responsive Spotify clone website by using pure HTML, CSS and Javascript.
 
 ## Demo
 
